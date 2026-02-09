@@ -67,3 +67,8 @@ coverage/
 .git/
 
 ./Assets
+
+# Development/Planning files
+PROJECT_SPEC.md
+PROJECT_SUMMARY.md
+OPEN_PROJECT.bat
